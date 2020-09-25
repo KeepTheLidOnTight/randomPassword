@@ -1,20 +1,20 @@
 # Random Password Generator:
-The intention of this application is to generate a random password based on user picked elements.
+The intention of this application is to generate a random password based on user picked elements. Some syntax still needs work.
 
 See here:
 
-[Password Generator]()
+[Password Generator](https://keepthelidontight.github.io/randomPassword/)
 <br>
-[GitHub Repository](https://github.com/KeepTheLidOnTight/Responsive_Portfolio)
+[GitHub Repository](https://github.com/KeepTheLidOnTight/randomPassword)
 
 # Usage Instructions
-Click on the links in the navbar to view different pages of the site. Resize the browser window to see the responsive layout.
+This page has popup's to select criteria that will generate a random password. More edits need to be made for full functionality.
 
 # Installation:
 N/A
 
 # Credits/Thanks:
-Bootstrap was used to design this responsive layout. Google fonts also referenced.
+Shoutout to Samer for assistance with this project. His guidance helped me get the ball rolling. Find him at https://github.com/samergain.
 
 # License Information: 
 N/A
