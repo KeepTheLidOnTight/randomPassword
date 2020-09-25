@@ -20,4 +20,6 @@ Shoutout to Samer for assistance with this project. His guidance helped me get t
 N/A
 
 # Furthur Developments/Edits
--Continue to customize elements of the portfolio
+-Continue to adjust the syntax to produce an actual password
+-Reasearch popups and what could be used instead. Popups seem clunky
+-Consider more styling
