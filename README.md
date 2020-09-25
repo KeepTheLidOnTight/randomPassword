@@ -20,6 +20,8 @@ Shoutout to Samer for assistance with this project. His guidance helped me get t
 N/A
 
 # Furthur Developments/Edits
--Continue to adjust the syntax to produce an actual password
--Reasearch popups and what could be used instead. Popups seem clunky
--Consider more styling
+<ul>
+<li>Continue to adjust the syntax to produce an actual password</li>
+<li>Reasearch popups and what could be used instead. Popups are clunky</li>
+<li>Consider more styling</li>
+</ul>
